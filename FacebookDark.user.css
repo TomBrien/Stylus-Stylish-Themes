@@ -1,5 +1,3 @@
-@-moz-document domain("facebook.com"), /*[[messenger]]*/regexp("http(s?)://(www.|)facebookcorewwwi.onion(.*)")
-{
 /* ==UserStyle==
 @name        Facebook Dark
 @namespace   github.com/openstyles/stylus
@@ -8,6 +6,9 @@
 @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/blob/master/FacebookDark.user.css
 @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
 ==/UserStyle== */
+@-moz-document domain("facebook.com"),
+domain("messenger.com"),
+regexp("http(s?)://(www.|)facebookcorewwwi.onion(.*)"){
 
 :root {
   --bg-color-background: #23232d;
