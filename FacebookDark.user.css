@@ -1,8 +1,11 @@
+@-moz-document domain("facebook.com"), /*[[messenger]]*/regexp("http(s?)://(www.|)facebookcorewwwi.onion(.*)")
+{
 /* ==UserStyle==
 @name        Facebook Dark
 @namespace   github.com/openstyles/stylus
 @version     1.0.0
 @license     CC-BY-NC-2.5
+@homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/blob/master/FacebookDark.user.css
 @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
 ==/UserStyle== */
 
@@ -502,4 +505,6 @@ div._3p19 {
     border-image-width: initial;
     border-image-outset: initial;
     border-image-repeat: initial;
+}
+/*Don't add anything after this point*/
 }
