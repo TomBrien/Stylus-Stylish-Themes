@@ -1,8 +1,11 @@
-/*
-	Author: Tom Brien
-	Page: https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
-	Version: 190612
-*/
+/* ==UserStyle==
+@name        Facebook Dark
+@namespace   github.com/openstyles/stylus
+@version     1.0.0
+@license     CC-BY-NC-2.5
+@updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
+==/UserStyle== */
+
 :root {
   --bg-color-background: #23232d;
   --bg-color-first: #2c2c36;
