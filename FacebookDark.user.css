@@ -517,5 +517,14 @@ loads of things */
 div[style*="background-color: rgb(245, 247, 248);"] {
     background-color: #2c2c36 !important;
 }
+/* Live comments */
+._6w1i {
+  background-color: #26262f;
+  border-top: 1px solid #23232d;
+}
+._6w8- {
+  background-color: #2c2c36;
+  color: #979797;
+}
 /*Don't add anything after this point*/
 }
