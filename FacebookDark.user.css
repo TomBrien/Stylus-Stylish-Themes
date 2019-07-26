@@ -4,7 +4,7 @@ regexp("http(s?)://(www.|)facebookcorewwwi.onion(.*)"){
   /* ==UserStyle==
   @name        Facebook Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.1.11
+  @version     1.1.12
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/blob/master/FacebookDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
@@ -530,6 +530,12 @@ div[style*="background-color: rgb(245, 247, 248);"] {
 ._5irm._7mkm {
     background-color: #26262f !important;
 }
+
+/* Hack to fix seleted post content button background */
+div[style*="background: rgb(228, 240, 213);"] {
+  background: #26262f !important;
+}
+
 /* Now go back to the top and remember to bump the version */
 /*Don't add anything after this point*/
 }
