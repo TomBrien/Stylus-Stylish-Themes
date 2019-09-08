@@ -1,4 +1,13 @@
 @-moz-document regexp("https?://(www|encrypted|images|translate|accounts|books|photos).google.(com|([a-z]{2}))(.[a-z]{2})?/(?!mobile|flights|intl|alerts|finance|calendar|nexus|contacts|services|voice|business|maps|dashboard|settings|android|adsense|analytics|doodles|chrome|fonts|patents|translate_p|recaptcha).*") {
+  /* ==UserStyle==
+  @name        Google Dark
+  @namespace   github.com/openstyles/stylus
+  @version     1.0.1
+  @license     CC-BY-NC-2.5
+  @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
+  @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
+  ==/UserStyle== */
+	
 /*** Main page ***/
 body, html {
     background: #252525!important;
