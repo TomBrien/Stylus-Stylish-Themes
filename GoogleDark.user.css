@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.5
+  @version     1.0.6
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -130,7 +130,7 @@ body, html {
 .gb_yb, .gb_ia {
     background: #252525!important;
 }
-.gb_ia {
+.gb_Ia {
   filter: invert(1);
 }
 .gb_jb, .gb_qb {
