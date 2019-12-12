@@ -4,7 +4,7 @@ regexp("http(s?)://(www.|)facebookcorewwwi.onion(.*)"){
   /* ==UserStyle==
   @name        Facebook Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.1.27
+  @version     1.1.28
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/blob/master/FacebookDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
@@ -99,6 +99,9 @@ html ._6-d .fbTimelineSection, ._6ue3, ._khq, ._1eo6, ._1kns, ._45r6, ._1dm9, bo
 
 ._jz-::before, ._eos:after, ._1tsc, ._3qnk, ._2rhx:after, ._58-m, ._62gz, ._4pd1, ._4b44._2ip_ ._2zh4::before, ._4b44._2ip_ ._15kk::before, ._4b44._2ip_ ._15kk+._4u3j::before, ._4ou3::before, ._3qph:before, ._3uch:before, ._14au:before, ._4ycm:after, ._1_1h, ._33v0, ._307z:after, .mp footer hr, .touch ._ydx ._195r::before, .touch ._51v6, ._3ils, ._5d-j:after, ._2ip_ ._2zh4::before, ._2ip_ ._15kk::before, ._2ip_ ._15kk+._4u3j::before, ._4u6u>span:before, ._4u6u>span:after, ._588p hr, ._5141 ._5144:after, ._1rf5>span:before, ._1rf5>span:after, ._3te, .__s3, ._1o7w, ._3541, ._im7, .__tw, ._5fbu:before, ._23mm, ._5w22:before, ._4-97:before, ._2hw4, ._1riz, .fbNub._50mz .fbNubFlyoutFooter:after, ._2ze7, ._5f_7, ._eb3:before, ._sm1, ._51xa ._4jy1+.uiPopover>._4jy1:not(:focus):after
 {background:var(--border-color, #353535)}
+
+._4yjk, ._4yjk:last-child
+{border: 1px solid var(--border-color, #353535)!important}
 
 
 ._3w8y blockquote, ._3__- ._3e5f ._1mj1, ._1mj4 ._1mj1, ._w0s, ._7fc2._7fc4, ._26w9, ._5811._5812, ._h8g, ._1f09, ._69i9, ._h8g._58ak, ._2a18 ._58ak, ._1y48:hover._1i81, ._1i81, ._1y48:hover, ._3cop:hover, ._36xc, ._54n6, ._4w6q, ._45jh:hover, ._1mpo, ._38i2, ._1bm3, ._2p__, ._3o_h::before, ._1d--, ._26w9, ._2cir.selected, ._1ss6, ._3q6s, ._3xop, ._cjo._cjn, ._5pcm, ._5hpw ._5hpx ._5hq1:hover, ._5hpw ._5hpx ._5hq1:focus, ._3f-h._3f-i
