@@ -547,12 +547,6 @@ div[style*="background: rgb(228, 240, 213);"] {
   border-radius: 50%;
 }
 
-/* Attempt to recolor side icons in chat */
-._6ybv path {
-    fill: #0099ff !important
-}
-
-
 /* Now go back to the top and remember to bump the version */
 /*Don't add anything after this point*/
 }
