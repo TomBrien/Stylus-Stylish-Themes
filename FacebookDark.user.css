@@ -4,7 +4,7 @@ regexp("http(s?)://(www.|)facebookcorewwwi.onion(.*)"){
   /* ==UserStyle==
   @name        Facebook Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.1.29
+  @version     1.1.28
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/blob/master/FacebookDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
@@ -548,10 +548,9 @@ div[style*="background: rgb(228, 240, 213);"] {
 }
 
 /* Attempt to recolor side icons in chat */
-._6ybv path, ._6y56 path  {
-    fill: #0099ff !imprtant;
+._6ybv path {
+    fill: #0099ff !important
 }
-
 
 
 /* Now go back to the top and remember to bump the version */
