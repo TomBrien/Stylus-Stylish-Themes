@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.6
+  @version     1.0.7
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -2749,6 +2749,15 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
 #gbwa > div:nth-child(1) > a {
 	filter: invert(.9)!important;
 }
+
+/*Shopping Gradient */
+.exaJlc {
+  opacity: 0 !important;
+}
+.S4EObe.YrVNK {
+    background: linear-gradient(90deg, #25252566 0%, #252525 80%) !important;
+}
+
 /* Scrollbar */
 ::-webkit-scrollbar {
 	width: 10px!important;
