@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.8
+  @version     1.0.9
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -2753,6 +2753,26 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
 }
 .S4EObe.YrVNK {
     background: linear-gradient(90deg, #25252566 0%, #252525 80%) !important;
+}
+
+/* Trip Adviser Questions */
+.wjgLQd {
+    color: #8e8e8e;
+}
+.fbPs3b {
+    border-bottom: 1px solid #333;
+    padding: 8px 0 8px;
+}
+.bjaP2b path {
+    fill: #8e8e8e;
+}
+.ZVWN5d {
+    background-color: transparent !important;
+    border-bottom: 1px solid #333;
+    padding: 12px 16px 16px 16px;
+}
+.Xims0d {
+    color: #8e8e8e;
 }
 
 /* Scrollbar */
