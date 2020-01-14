@@ -4,7 +4,7 @@ regexp("http(s?)://(www.|)facebookcorewwwi.onion(.*)"){
   /* ==UserStyle==
   @name        Facebook Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.1.35
+  @version     1.1.36
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/blob/master/FacebookDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
@@ -576,7 +576,9 @@ div[style*="background: rgb(228, 240, 213);"] {
 ._3szp path {
     fill: #858585 !important;
 }
-
+.sp_8G4jrrNIktu.sx_f08cbe {
+    filter: invert(1);
+}
 /* Now go back to the top and remember to bump the version */
 /*Don't add anything after this point*/
 }
