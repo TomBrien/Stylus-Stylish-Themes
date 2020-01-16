@@ -2780,6 +2780,12 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
     filter: invert(1);
 }
 
+/* New (2020-01-16) "Ad" text */
+.VqFMTc {
+    background-color: #252525 !important;
+    color: #2e8c4c !important;
+}
+
 /* Scrollbar */
 ::-webkit-scrollbar {
 	width: 10px!important;
