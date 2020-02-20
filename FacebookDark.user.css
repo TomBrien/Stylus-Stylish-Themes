@@ -4,7 +4,7 @@ regexp("http(s?)://(www.|)facebookcorewwwi.onion(.*)"){
   /* ==UserStyle==
   @name        Facebook Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.1.37
+  @version     1.1.38
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/blob/master/FacebookDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/FacebookDark.user.css
@@ -580,7 +580,11 @@ div[style*="background: rgb(228, 240, 213);"] {
     filter: invert(1);
 }
 
-div[style*="color: rgb(28, 30, 33);"] {
+div[style*="font-family: Arial, sans-serif;font-size: 20px;line-height: 24px;letter-spacing: normal;overflow-wrap: normal;text-align: left; color: rgb(28, 30, 33);"] {
+  color: #dfdfdf !important;
+}
+
+div[style*="font-family: Arial, sans-serif; font-size: 14px; line-height: 18px; letter-spacing: normal; overflow-wrap: normal; text-align: left; color: rgb(28, 30, 33);"] {
   color: #dfdfdf !important;
 }
 
