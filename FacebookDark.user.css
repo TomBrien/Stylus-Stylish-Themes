@@ -580,7 +580,7 @@ div[style*="background: rgb(228, 240, 213);"] {
     filter: invert(1);
 }
 
-div[style*="color: rgb(28, 30, 33);" {
+div[style*="color: rgb(28, 30, 33);"] {
   color: #dfdfdf !important;
 }
 
