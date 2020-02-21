@@ -110,6 +110,9 @@ body, html {
 .spell-diff-red {
     color: #ff2b44!important;
 }
+.sfbg {
+    background: #252525 !important;
+}
 /* Account info & settings */
 .gb_ga, .gb_Mb {
     background-color: #252525!important;
