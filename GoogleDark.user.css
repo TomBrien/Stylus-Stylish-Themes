@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.13
+  @version     1.0.14
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -2829,6 +2829,9 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
 * {
 	scrollbar-width: thin;
 	scrollbar-color: #333 #1b1b1b;
+}
+.GHDvEf, .GHDvEf:hover, .GHDvEf.selected, .GHDvEf.selected:hover {
+      background-color: transparent !important;
 }
 }
 
