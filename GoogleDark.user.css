@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.18
+  @version     1.0.19
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -2842,6 +2842,9 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
 
 .zCubwf {
     color: #e8e8e8 !important;
+}
+.gJBeNe {
+    color: #8e8e8e !important;
 }
 }
 
