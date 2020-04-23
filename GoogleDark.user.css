@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.27
+  @version     1.0.28
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -2898,10 +2898,13 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
     background-color: #1b1b1b !important;
 }
 .r9PaP {
-  color: #e8e8e8 !important;
+  color: #5f6368 !important;
 }
 .H1KrKd {
-    fill: #e8e8e8 !important;
+    fill: #5f6368 !important;
+}
+.cEPPT {
+    border-bottom: solid 1px #1b1b1b !important;
 }
 }
 
