@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.29
+  @version     1.0.30
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -4033,7 +4033,7 @@ input {
 .KjQPs, .z3cJ0e {
     filter: invert(1);
 }
-/* Placeholder */
+/* Placeholder
 ::-webkit-input-placeholder {
   color: #8e8e8e!important;
 }
@@ -4045,7 +4045,7 @@ input {
 }
 :-ms-input-placeholder {
 	color: #8e8e8e!important;
-}
+} */
 /* Remove */
 .uc-footer {
     display: none!important;
@@ -5831,19 +5831,20 @@ body > div.VIpgJd-TUo6Hb.bF1uUb-sKfxWe.mQXP-BivLOc.ti6hGc-mQXP-puj0O > div.mQXP-
 .Q0hgme-Q7GJAc-NkyfNe-RFnRab-LYNcwc, .Q0hgme-Q7GJAc-NkyfNe-RFnRab-LYNcwc .RmniWd-fmcmS-h1U9Be {
 	color: #ccc!important;
 }
-/* Placeholder */
-::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+/* Placeholder
+::-webkit-input-placeholder { /
   color: #8e8e8e!important;
 }
-::-moz-placeholder { /* Firefox 19+ */
+::-moz-placeholder {
   color: #8e8e8e!important;
 }
-:-ms-input-placeholder { /* IE 10+ */
+:-ms-input-placeholder {
   color: #8e8e8e!important;
 }
-:-moz-placeholder { /* Firefox 18- */
+:-moz-placeholder {
   color: #8e8e8e!important;
 }
+*/
 /* Scrollbar */
 ::-webkit-scrollbar {
 	width: 10px!important;
@@ -6373,18 +6374,19 @@ a.footer-item {
 .gb_X {
 	color: #ccc!important;
 }
-::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+/* placeholder
+::-webkit-input-placeholder {
   color: #8e8e8e!important;
 }
-::-moz-placeholder { /* Firefox 19+ */
+::-moz-placeholder {
   color: #8e8e8e!important;
 }
-:-ms-input-placeholder { /* IE 10+ */
+:-ms-input-placeholder {
   color: #8e8e8e!important;
 }
-:-moz-placeholder { /* Firefox 18- */
+:-moz-placeholder {
   color: #8e8e8e!important;
-}
+}*/
 /* Scholar fix */
 .gs_hdr_act_am:link {
 	background-color: #252525!important;
