@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.31
+  @version     1.0.32
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -2911,6 +2911,9 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
 }
 .UwAaac:hover {
     text-decoration: none !important;
+}
+.DQIxKd {
+    color: #30b35a !important;
 }
 }
 
