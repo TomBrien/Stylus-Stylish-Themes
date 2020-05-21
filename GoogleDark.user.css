@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.33
+  @version     1.0.34
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -3277,7 +3277,7 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
 
 @-moz-document url-prefix("https://scholar.google") {
 /* Main */
-#gs_bdy, #gs_top, #gs_ftr, #gs_hdr_drw {
+#gs_bdy, #gs_top, #gs_ftr, #gs_hdr_drw, #gsc_prf_nbar_ccl {
     background: #252525!important;
 }
 #gs_ab, #gs_hdr {
@@ -3297,6 +3297,12 @@ body {
 }
 .gs_md_ac[dir="ltr"] .gs_md_ac_lh .gs_ico_X {
     filter: invert(1);
+}
+.gsc_prf_n {
+    background-color: #343434;
+}
+.gsc_prf_n {
+    color: #8e8e8e !important;
 }
 /* Articles */
 .gs_eml_sd, #gsc_napb_hdrg, #gsc_napb_hdrb {
@@ -3329,6 +3335,9 @@ b {
 }
 .gs_ri {
     padding-bottom: 10px!important;
+}
+#gsc_a_trh {
+    background-color: #343434 !important;
 }
 /* Sidebar */
 #gs_lnv a:link, #gs_lnv a:visited {
