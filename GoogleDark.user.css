@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.34
+  @version     1.0.35
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -3336,7 +3336,7 @@ b {
 .gs_ri {
     padding-bottom: 10px!important;
 }
-#gsc_a_trh {
+#gsc_a_trh, .gs_md_hdr {
     background-color: #343434 !important;
 }
 /* Sidebar */
