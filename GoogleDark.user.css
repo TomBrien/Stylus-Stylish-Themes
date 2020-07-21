@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.36
+  @version     1.0.37
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -306,7 +306,7 @@ a:link, ._Iqg, ._Fqg, .rtng, .lr_dct_more_btn, .TbwUpd a.fl, .jMtmC, a:hover h3.
 .ab_button, .ab_button:hover {
 	background: transparent!important;
 }
-.ab_dropdown {
+.ab_dropdown, .cUezCb {
 	background-color: #252525!important;
 }
 .action-menu-item:hover {
@@ -326,7 +326,7 @@ a:link, ._Iqg, ._Fqg, .rtng, .lr_dct_more_btn, .TbwUpd a.fl, .jMtmC, a:hover h3.
   background-color: #1b1b1b;
   border: 1px solid #333333;
 }
-.MUxGbd {
+.MUxGbd, .qzEoUe {
   color: #b7b7b7 !important;
 }
 .sFZIhb {
