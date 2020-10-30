@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.38
+  @version     1.0.39
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -2923,6 +2923,21 @@ body > section > div > section > div.download__panel.personal > a.maia-button.bu
 }
 .JheGif {
     color: #70757a !important;
+}
+/* Info box */
+.I6TXqe {
+	background: #282828!important;
+	border: 1px solid #333!important;
+}
+div[style*="border-bottom:1px solid #EBEBEB"] {
+    /* border-bottom: #ffffff!important; */
+    border-bottom: 1px solid #333!important;
+}
+.mFVw3b {
+    border-bottom: 1px solid #333!important;
+}
+.wwfboe {
+    border-top: 1px solid #333!important;
 }
 }
 
