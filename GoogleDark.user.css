@@ -2,7 +2,7 @@
   /* ==UserStyle==
   @name        Google Dark
   @namespace   github.com/openstyles/stylus
-  @version     1.0.41
+  @version     1.0.42
   @license     CC-BY-NC-2.5
   @homepageURL  https://github.com/TomBrien/Stylus-Stylish-Themes/edit/master/GoogleDark.user.css
   @updateURL https://raw.githubusercontent.com/TomBrien/Stylus-Stylish-Themes/master/GoogleDark.user.css
@@ -2956,6 +2956,9 @@ div[style*="border-bottom:1px solid #EBEBEB"] {
 }
 .s75CSd {
     color: #5f6368!important;
+}
+.yg51vc {
+	background: #252525!important;
 }
 }
 
